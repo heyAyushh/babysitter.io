@@ -1,0 +1,25 @@
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyAyushh/babysitter.io.git"
+  },
+  "author": "Ayush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heyAyushh/babysitter.io/issues"
+  },
+  "homepage": "https://github.com/heyAyushh/babysitter.io#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "kafka-node": "^2.6.1",
+    "optimist": "^0.6.1",
+    "time-stamp": "^2.0.0"
+  }
+}
